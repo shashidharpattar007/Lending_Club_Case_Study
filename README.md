@@ -6,7 +6,7 @@
 ## Contributors:
 
   [Shashidhar Pattar](https://github.com/shashidharpattar007 )
-  [Shriyan Arcot]
+  [Shriyan Arcot](https://github.com/shriyanarcot)
 
 
 
