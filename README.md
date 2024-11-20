@@ -3,10 +3,10 @@
 
 The case study focuses on EDA mainly, to understand which parameters are major to detect whether a customer will default loan or not. Pesented a PPT to illustrate the major parameter to consider while giving loans along their data distributions.
 
-Contributors:
+## Contributors:
 
-Shashidhar Pattar
-Shriyan Arcot
+> Shashidhar Pattar
+> Shriyan Arcot
 
 
 
