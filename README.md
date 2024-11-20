@@ -5,7 +5,7 @@
 
 ## Contributors:
 
-  [Shashidhar Pattar](https://github.com/shashidharpattar007 )
+  [Shashidhar Pattar](https://github.com/shashidharpattar007) <br />
   [Shriyan Arcot](https://github.com/shriyanarcot)
 
 
